@@ -16,3 +16,6 @@ def mostrar():
     print("Esta rama está destinada para los cambios necesarios en el backend")
 mostrar()
 
+def sumas():
+    print(789+546)
+sumas()
