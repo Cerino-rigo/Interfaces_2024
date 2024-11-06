@@ -1,5 +1,3 @@
-# Int-Rigo
-Respositorio de ejemplo desde GitHub
+# Interfaces_2024
 
-
-Actualización 1: Hecha por Rigo
+En este repositorio se almacenarán los ejercicios realizados en clase, así como los archivos necesarios para trabajar.
